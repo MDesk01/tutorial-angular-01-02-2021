@@ -2,7 +2,7 @@
  tutorial básico de como construir uma aplicação ANGULAR do ZERO.
  -
  ## pré-requisitos:
- 1 - Instalar o VSCode(https://code.visualstudio.com/) e o Node.js(https://nodejs.org/en/)
+ 1 - Instalar o VSCode(https://code.visualstudio.com/) e o Node.js(https://nodejs.org/en/)<br>
  2 - Abrir o VSCode e seguir os seguintes passos:
   a) Terminal > Novo terminal
   b) Com o terminal aberto, instalar os seguintes pacotes: **npm install**, **npm install typescript**, **npm install -g @angular/cli**
