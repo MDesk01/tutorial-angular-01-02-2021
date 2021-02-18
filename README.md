@@ -1,4 +1,4 @@
-# tutorial-angular-01-02-2021
+# Tutorial ANGULAR - v.11 - att.18/02/2021
  Tutorial básico de como construir uma aplicação ANGULAR do ZERO.
  -
  ## #pré-requisitos:
