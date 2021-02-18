@@ -5,7 +5,7 @@
  1 - Instalar o VSCode(https://code.visualstudio.com/) e o Node.js(https://nodejs.org/en/)<br>
  2 - Abrir o VSCode e seguir os seguintes passos:<br>
   a) Terminal > Novo terminal<br>
-  b) Com o terminal aberto, instalar os seguintes pacotes: **npm install**, **npm install typescript**, **npm install -g @angular/cli**<br>
+  b) Com o terminal aberto, instalar os seguintes pacotes: **npm install**, **npm install -g typescript**, **npm install -g @angular/cli**<br>
    *'opcional: instalar a extensão para deixar o VSCode em português: Extensions > Pesquisar por: **Portuguese (Brazil) Language Pack for Visual Studio Code** > Install.*<br>
 
 ## #criando a aplicação web angular:
