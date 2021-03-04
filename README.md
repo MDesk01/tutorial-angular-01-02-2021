@@ -12,7 +12,7 @@
 1 - Ainda no terminal do VSCode, digite: ng new xxx *(sendo "xxx" o nome do projeto)* > pressione ENTER.<br>
   a) pergunta 1: YES<br>
   b) pergunta 2: YES<br>
-  c) Seleciona o estilo: CSS<br>
+  c) Seleciona o estilo: CSS _(ou qualquer outro que desejar como por ex: SCSS, Sass, Less, Stylus)_ <br>
 2 - Abra a pasta do projeto: Arquivo > Abrir Pasta > Selecionar a pasta do projeto e abri-la.<br>
 3 - Subir aplicação na web: Terminal > Novo terminal > digite: ng serve (ou ng serve --port 4200 -o) > pressione ENTER.<br>
 4 - Abra o seguinte link no navegador: http://localhost:4200/<br>
