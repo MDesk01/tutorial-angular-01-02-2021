@@ -18,5 +18,5 @@ o.b.s: as API's estão disponíveis em: https://material.angular.io/<br>
 a) Exemplo.1: *imports: [ MatToolbarModule ]* <br>
 b) o.b.s.: Para utilizar dois ou mais componentes, você deve por a vírgula separando o nome dos componentes. (exemplo: *imports: [MatToolbarModule, MatTabsModule]*) <br>
 4 - Vá até o arquivo *app.component.html* e apague TUDO que estiver lá. <br>
-5 - Insira o component que você deseja utilizar, em formato de Tag HTML5. <br>
-(exemplo: se você fez o import do componente *MatToolbarModule* , então você pode usar o Toolbar. Para utiliza-lo, escreva da seguinte maneira: *< mat-toolbar>Hello!</ mat-toolbar>*)
+5 - Insira o component que você deseja utilizar, em formato de Tag HTML5 (<*insira-aqui-a-tag*>) <br>
+(exemplo: se você fez o import do componente *MatToolbarModule* , então você pode usar o Toolbar. Para utiliza-lo, escreva a Tag <*mat-toolbar*>Hello!<*/mat-toolbar*> <br>
