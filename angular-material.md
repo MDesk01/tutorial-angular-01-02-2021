@@ -22,5 +22,5 @@ b) o.b.s.: Para utilizar dois ou mais componentes, você deve por a vírgula sep
 (exemplo: se você fez o import do componente *MatToolbarModule* , então você pode usar o Toolbar. Para utiliza-lo, escreva a Tag <*mat-toolbar*> Texto <*/mat-toolbar*> <br>
 6 - Suba a aplicação na web, utilizando o comando **ng serve** , via *Terminal*. <br>
 7 - Acesse a aplicação (*localhost:4200*) e visualize o componente que você acabou de por.<br>
-8 - Pronto! Agora você ja sabe como introduzir um componente do Angular Material nas suas páginas HTML da sua aplicação angular.
+8 - Pronto! Agora você ja sabe como introduzir um componente do Angular Material nas suas páginas HTML da sua aplicação angular. <br>
 9 - Para ter acesso ao material completo, acesse: https://material.angular.io/
