@@ -16,4 +16,4 @@
 2 - Abra a pasta do projeto: Arquivo > Abrir Pasta > Selecionar a pasta do projeto e abra.<br>
 3 - Subir aplicação na web: Terminal > Novo terminal > digite: ng serve (ou ng serve --port 4200 -o) > pressione ENTER.<br>
 4 - Abra o seguinte link no navegador: http://localhost:4200/<br>
-5 - Pronto! Você criou a sua primeira aplicação web, utilizando framework Angular (v.11.2).<br>
+5 - Pronto! Você criou a sua primeira aplicação web, utilizando Framework Angular (v.11.2).<br>
