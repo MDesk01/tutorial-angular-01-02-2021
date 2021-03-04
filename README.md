@@ -1,5 +1,5 @@
 # Tutorial ANGULAR - v.11.2 - [att.04/02/2021 - windows 10]
- Tutorial básico de como construir uma aplicação ANGULAR do ZERO.
+ Tutorial básico de como construir uma aplicação Angular do ZERO.
  -
  ## #pré-requisitos:
  1 - Instalar o VSCode(https://code.visualstudio.com/) e o Node.js(https://nodejs.org/en/)<br>
@@ -9,7 +9,7 @@
    *'opcional: instalar a extensão para deixar o VSCode em português: Extensions > Pesquisar por: **Portuguese (Brazil) Language Pack for Visual Studio Code** > Install.*<br>
 
 ## #criando a aplicação web angular:
-1 - Ainda no terminal do VSCode, digite: ng new xxx *(sendo "xxx" o nome do projeto)* > pressione ENTER.<br>
+1 - Ainda no terminal do VSCode, digite: ng new xxxx *(sendo "xxxx" o nome do projeto)* > pressione ENTER.<br>
   a) pergunta 1: YES<br>
   b) pergunta 2: YES<br>
   c) Seleciona o estilo: CSS _(ou qualquer outro que desejar como por ex: SCSS, Sass, Less, Stylus)_ <br>
