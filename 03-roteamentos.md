@@ -11,4 +11,5 @@ o.b.s.3: VocÊ pode criar uma pasta ao mesmo tempo que for criar um novo compone
 o.b.s.4: De mesmo modo, você pode criar e inserir novos components, em pastas pré-existentes, utilizando o **mesmo** comando da **o.b.s.3** (ng g c kkkk/yyyy - sendo "kkkk" o component e "yyyy" a pasta ja existente) <br>
 2 - Vá até o arquivo *app.component.html*  e inclua em formato de Tag HTML, o component criado, abaixo do <*router-outlet*></*router-outlet*> da seguinte maneira: <*app-nome-do-component*></*app-nome-do-component*> <br>
 exemplo: se você criou um component cujo nome é **home**, então insira da seguinte forma: <*app-home*></*app-home*> <br>
-3 - SUba a aplicação na web com o seguinte comando: **ng serve** e acesse localhost:4200
+3 - SUba a aplicação na web com o seguinte comando: **ng serve** e acesse localhost:4200 <br>
+4 - Obeserve que, o conteúdo da página HTML do component que você acabou de criar, surgiu na página *app.component.html*
