@@ -1,5 +1,5 @@
  ## #pré-requisitos:
- 1 - Instalar o VSCode(https://code.visualstudio.com/) e o Node.js(https://nodejs.org/en/)<br>
+ 1 - Instalar o VSCode(https://code.visualstudio.com/), o Node.js(https://nodejs.org/en/) e o npm (npm install -g)<br>
  2 - Abrir o VSCode e siga os seguintes passos:<br>
   a) Terminal > Novo terminal<br>
   b) Com o terminal aberto, instalar os seguintes pacotes: **npm install -g @angular/cli**<br>
