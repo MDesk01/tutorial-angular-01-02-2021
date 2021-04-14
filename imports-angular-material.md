@@ -36,6 +36,8 @@ import {MatStepperModule} from '@angular/material/stepper';<br>
 import {MatTableModule} from '@angular/material/table';<br>
 import {MatTabsModule} from '@angular/material/tabs';<br>
 import {MatToolbarModule} from '@angular/material/toolbar';<br>
+import { FormsModule } from '@angular/forms';<br>
+import { HttpClientModule } from '@angular/common/http';<br>
 
 <br>
 
@@ -75,4 +77,6 @@ MatSortModule,<br>
 MatStepperModule,<br>
 MatTableModule,<br>
 MatTabsModule,<br>
-MatToolbarModule<br>
+MatToolbarModule,<br>
+FormsModule,<br>
+HttpClientModule
