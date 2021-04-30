@@ -38,6 +38,7 @@ import {MatTabsModule} from '@angular/material/tabs';<br>
 import {MatToolbarModule} from '@angular/material/toolbar';<br>
 import { FormsModule } from '@angular/forms';<br>
 import { HttpClientModule } from '@angular/common/http';<br>
+import { MatNativeDateModule } from '@angular/material/core';<br>
 
 <br>
 
@@ -54,6 +55,7 @@ MatCardModule,<br>
 MatCheckboxModule,<br>
 MatChipsModule,<br>
 MatDatepickerModule,<br>
+MatNativeDateModule,<br>
 MatDialogModule,<br>
 MatDividerModule,<br>
 MatExpansionModule,<br>
