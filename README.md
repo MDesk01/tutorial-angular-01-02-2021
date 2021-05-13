@@ -11,3 +11,4 @@ TinyPNG(compressão de imagens sem perder qualidade): https://tinypng.com/ <br>
 Responsive Break(gera os atributos para uma imagem responsiva): https://www.responsivebreakpoints.com/ <br>
 Template de Sites: https://w3layouts.com/ <br>
 Ivy Material: http://ivylab.space/ <br>
+Nebular: https://akveo.github.io/nebular/ <br>
