@@ -39,6 +39,7 @@ import {MatToolbarModule} from '@angular/material/toolbar';<br>
 import { FormsModule } from '@angular/forms';<br>
 import { HttpClientModule } from '@angular/common/http';<br>
 import { MatNativeDateModule } from '@angular/material/core';<br>
+// Import do Flex-Layout import { FlexLayoutModule } from '@angular/flex-layout'; <br>
 
 <br>
 
