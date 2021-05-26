@@ -14,3 +14,4 @@ Ivy Material: http://ivylab.space/ <br>
 Nebular: https://akveo.github.io/nebular/ <br>
 Flex-Layout: https://tburleson-layouts-demos.firebaseapp.com/#/docs <br>
 EXTRA: Construtor de sites e apps mobiles: http://www.webtayfa.com/<br>
+NGX Bootstrap: https://valor-software.com/ngx-bootstrap/#/
